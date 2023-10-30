@@ -20,5 +20,5 @@ cl.login(username="brimbiii", password="55sept")
 
 media = cl.photo_upload(
     path=a,
-    caption="random"
+    caption="random"     #for caption
 )
